@@ -1,8 +1,8 @@
 function alterarCirculo(){
-    const Circulo = document.getElementById(`Circulo`);
+    const Circulo = document.getElementById('Circulo');
 }
 
-const corAleatoria = `#`+
+const corAleatoria = '#'+
 Math.floor(Math.random()*16777215).toString(16);
 
 const novoTamanho =Math.floor(Math.random()* (200-50+1)) + 50;

@@ -14,7 +14,7 @@ Circulo {
     height: 100px;
     background-color: #3498bd;
     border-radius: 50%;
-    margin:0 auto 20px;
+    margin: 0 auto 20px;
     transition: all 0.5s ease;
 }
 

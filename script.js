@@ -1,5 +1,5 @@
 function alterarCirculo(){
-    const ciculo = document.getElementById('circulo');
+    const circulo = document.getElementById('circulo');
 }
 
 const corAleatoria = '#'+
